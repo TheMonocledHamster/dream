@@ -1,5 +1,6 @@
 import abc
 from PIL import Image, ImageDraw
+import copy
 
 
 class Render(abc.ABC):
