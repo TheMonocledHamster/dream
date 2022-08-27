@@ -1,6 +1,6 @@
 import abc
 import enum
-
+import copy
 import gym
 import numpy as np
 from PIL import Image, ImageDraw
